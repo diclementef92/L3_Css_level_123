@@ -1,0 +1,22 @@
+header {
+  width: 50%;
+  margin: 0 auto 0 auto;
+}
+
+header img {
+  width: 50%;
+  min-width: 100px;
+}
+
+header p {
+  background-color: beige;
+  text-align: center;
+}
+body {
+  width: 80%;
+  margin: 0 auto 0 auto;
+}
+
+.photo {
+  border-radius: 1.5%;
+}
