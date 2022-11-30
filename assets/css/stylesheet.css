@@ -1,22 +1,23 @@
-header {
+.logo {
   width: 50%;
   margin: 0 auto 0 auto;
-}
-
-header img {
-  width: 50%;
-  min-width: 100px;
-}
-
-header p {
-  background-color: beige;
   text-align: center;
 }
-body {
+.banner {
+  width: 100%;
+  background-color: beige;
+  text-align: center;
+  border-top: 2px solid orange;
+}
+main {
   width: 80%;
   margin: 0 auto 0 auto;
 }
-
 .photo {
   border-radius: 1.5%;
+}
+
+.collegamento {
+  border-left: 2px solid orange;
+  padding-left: 30px;
 }
