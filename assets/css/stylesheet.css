@@ -1,12 +1,13 @@
 header {
   height: 100%;
-  width: 50%;
+  width: 80%;
   margin: 0 auto 0 auto;
   text-align: center;
 }
 
 .logo {
   width: 25%;
+  min-width: 120px;
   margin: 0 auto 0 auto;
 }
 .banner {
@@ -27,4 +28,13 @@ main {
 .collegamento {
   border-left: 2px solid orange;
   padding-left: 10px;
+}
+.didascalia-foto {
+  color: grey;
+  text-align: center;
+  margin-top: 0;
+}
+
+hr {
+  color: grey;
 }
