@@ -1,7 +1,13 @@
-.logo {
+header {
+  height: 100%;
   width: 50%;
   margin: 0 auto 0 auto;
   text-align: center;
+}
+
+.logo {
+  width: 25%;
+  margin: 0 auto 0 auto;
 }
 .banner {
   width: 100%;
@@ -15,9 +21,10 @@ main {
 }
 .photo {
   border-radius: 1.5%;
+  width: 100%;
 }
 
 .collegamento {
   border-left: 2px solid orange;
-  padding-left: 30px;
+  padding-left: 10px;
 }
